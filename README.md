@@ -1,0 +1,2 @@
+# TheCoverComponent
+Created with CodeSandbox
